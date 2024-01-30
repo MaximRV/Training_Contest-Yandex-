@@ -1,0 +1,17 @@
+№	Вердикт	Ресурсы	Баллы
+	1	ok	51ms / 4.12Mb	-
+	2	ok	53ms / 4.11Mb	-
+	3	ok	50ms / 4.13Mb	-
+	4	ok	52ms / 4.13Mb	-
+	5	ok	51ms / 4.13Mb	-
+	6	ok	51ms / 4.13Mb	-
+	7	ok	51ms / 4.12Mb	-
+	8	ok	51ms / 4.12Mb	-
+	9	ok	53ms / 4.12Mb	-
+	10	ok	50ms / 4.14Mb	-
+	11	ok	53ms / 4.13Mb	-
+	12	ok	54ms / 4.08Mb	-
+	13	ok	51ms / 4.12Mb	-
+	14	ok	52ms / 4.12Mb	-
+	15	ok	51ms / 4.12Mb	-
+	16	ok	52ms / 4.13Mb	-
